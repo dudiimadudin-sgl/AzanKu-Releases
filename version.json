@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "downloadUrl": "https://github.com/dudiimadudin-sgl/AzanKu-Releases/releases/download/v1.2/azanku-v1.2.apk",
+  "changelog": "AzanKu v1.2 - Initial Release\n- Jadwal Salat Otomatis berbasis GPS\n- Notifikasi & Alarm Azan dengan custom sound\n- Modul Al-Qur'an Offline\n- Widget Home Screen dengan countdown\n- Auto-Start Permission Handling",
+  "minRequiredVersionCode": 1,
+  "releaseDate": "2026-10-25"
+}
